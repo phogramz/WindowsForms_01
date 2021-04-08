@@ -1,0 +1,47 @@
+﻿  MyForm.cpp
+C:\Users\Student\Desktop\WinForms\MyForm.h(34,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+C:\Users\Student\Desktop\WinForms\MyForm.h(50,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+C:\Users\Student\Desktop\WinForms\MyForm.h(51,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : см. объявление "strcat"
+C:\Users\Student\Desktop\WinForms\MyForm.h(52,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : см. объявление "strncpy"
+C:\Users\Student\Desktop\WinForms\MyForm.h(54,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : см. объявление "sscanf"
+C:\Users\Student\Desktop\WinForms\MyForm.h(55,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : см. объявление "strcat"
+C:\Users\Student\Desktop\WinForms\MyForm.h(56,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : см. объявление "strcat"
+C:\Users\Student\Desktop\WinForms\MyForm.h(57,1): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(266): message : см. объявление "strncat"
+C:\Users\Student\Desktop\WinForms\MyForm.h(359,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : см. объявление "fopen"
+C:\Users\Student\Desktop\WinForms\MyForm.h(369,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : см. объявление "fscanf"
+C:\Users\Student\Desktop\WinForms\MyForm.h(373,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : см. объявление "fscanf"
+C:\Users\Student\Desktop\WinForms\MyForm.h(375,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\Student\Desktop\WinForms\MyForm.h(402,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+C:\Users\Student\Desktop\WinForms\MyForm.h(407,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+C:\Users\Student\Desktop\WinForms\MyForm.h(410,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\Student\Desktop\WinForms\MyForm.h(422,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+C:\Users\Student\Desktop\WinForms\MyForm.h(427,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+C:\Users\Student\Desktop\WinForms\MyForm.h(430,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\Student\Desktop\WinForms\MyForm.h(445,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\Student\Desktop\WinForms\MyForm.h(466,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\Student\Desktop\WinForms\MyForm.h(514,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Student\Desktop\WinForms\MyForm.h(515,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Student\Desktop\WinForms\MyForm.h(516,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WinForms.vcxproj -> C:\Users\Student\Desktop\WinForms\x64\Debug\WinForms.exe
